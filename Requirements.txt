@@ -1,0 +1,7 @@
+kafka-python==2.0.2
+watchdog==3.0.0
+base64io
+json
+os
+csv
+time
