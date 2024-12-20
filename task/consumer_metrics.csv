@@ -1,0 +1,6 @@
+Total Processed Messages,Total Time (s),Average Latency (s),Throughput (messages/s)
+192,0.73,0.0038,261.93
+192,0.87,0.0046,219.73
+192,0.72,0.0037,267.49
+192,0.82,0.0043,233.80
+192,0.90,0.0047,214.26
